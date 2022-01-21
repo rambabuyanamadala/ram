@@ -15,3 +15,10 @@ git push -u origin main
 git status
 git remote add origin https://github.com/uday411/github.git
 git push -u origin main
+git status
+git push
+git add .
+git status
+git remote add origin https://github.com/rambabuyanamadala/ram.git
+git push
+git push -u origin main
