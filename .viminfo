@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1642754151,,"wq!"
+|2,0,1642759494,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,52 @@
 # Registers:
 
 # File marks:
-'0  2  22  ~/uday
-|4,48,2,22,1642754151,"~/uday"
+'0  1  8  ~/udaya/udaya
+|4,48,1,8,1642759494,"~/udaya/udaya"
+'1  1  13  ~/udaya/uday
+|4,49,1,13,1642754989,"~/udaya/uday"
+'2  2  22  ~/uday
+|4,50,2,22,1642754151,"~/uday"
 
 # Jumplist (newest first):
+-'  1  8  ~/udaya/udaya
+|4,39,1,8,1642759494,"~/udaya/udaya"
+-'  1  13  ~/udaya/uday
+|4,39,1,13,1642754989,"~/udaya/uday"
+-'  1  13  ~/udaya/uday
+|4,39,1,13,1642754989,"~/udaya/uday"
+-'  2  22  ~/uday
+|4,39,2,22,1642754151,"~/uday"
+-'  2  22  ~/uday
+|4,39,2,22,1642754151,"~/uday"
+-'  2  22  ~/uday
+|4,39,2,22,1642754151,"~/uday"
 -'  2  22  ~/uday
 |4,39,2,22,1642754151,"~/uday"
 -'  1  0  ~/uday
 |4,39,1,0,1642754122,"~/uday"
+-'  1  0  ~/uday
+|4,39,1,0,1642754122,"~/uday"
+-'  1  0  ~/uday
+|4,39,1,0,1642754122,"~/uday"
+-'  1  0  ~/uday
+|4,39,1,0,1642754122,"~/uday"
 
 # History of marks within files (newest to oldest):
+
+> ~/udaya/udaya
+	*	1642759489	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/udaya/uday
+	*	1642754985	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
 > ~/uday
 	*	1642754148	0
